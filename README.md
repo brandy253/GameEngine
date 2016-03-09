@@ -1,1 +1,1 @@
-"# GameEngine" 
+Practical project of LWJGL based on ThinMatrix tutorials.
